@@ -1,0 +1,11 @@
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\bin\Debug\netcoreapp2.1\BranchingExerciseStep92.deps.json
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\bin\Debug\netcoreapp2.1\BranchingExerciseStep92.runtimeconfig.json
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\bin\Debug\netcoreapp2.1\BranchingExerciseStep92.runtimeconfig.dev.json
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\bin\Debug\netcoreapp2.1\BranchingExerciseStep92.dll
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\bin\Debug\netcoreapp2.1\BranchingExerciseStep92.pdb
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\obj\Debug\netcoreapp2.1\BranchingExerciseStep92.csprojAssemblyReference.cache
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\obj\Debug\netcoreapp2.1\BranchingExerciseStep92.csproj.CoreCompileInputs.cache
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\obj\Debug\netcoreapp2.1\BranchingExerciseStep92.AssemblyInfoInputs.cache
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\obj\Debug\netcoreapp2.1\BranchingExerciseStep92.AssemblyInfo.cs
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\obj\Debug\netcoreapp2.1\BranchingExerciseStep92.dll
+C:\Users\cback\source\repos\RandomProjects\BranchingExerciseStep92\BranchingExerciseStep92\obj\Debug\netcoreapp2.1\BranchingExerciseStep92.pdb
